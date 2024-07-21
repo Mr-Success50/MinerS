@@ -1,5 +1,5 @@
 import './styles/style.css' //For importing links brandLogo
-import brandLogo from './public/images/vite.svg'
+import brandLogo from '/images/vite.svg'
 import { handleClick } from './counter.ts' //importing a function from and API endpoint
 import { handleClick2 } from './counter.ts' //importing a function from and API endpoint
 //________________________________________________________________________
