@@ -1,0 +1,42 @@
+#headerNav{
+    display: flex;
+    width: 100%; 
+    background-color: aliceblue;
+    height: 60px;
+}
+
+.logoWrap{
+    margin-left: 20px;
+    padding-top: 10px; 
+    text-align: left; 
+    width: 50%; 
+}
+
+.navLinksWrap{ 
+    display: flex;
+    align-items:flex-end;
+    justify-content: flex-end; 
+    width: 50%; 
+    height: 100%;
+    margin: 0;
+    margin-right: 20px;
+}
+
+.navLinksWrap > li{
+    font-weight: bold;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+#udc_wrap{
+    margin-top: 30px;
+    display: none;
+}
+
+#btn2{
+    display: none;
+}
