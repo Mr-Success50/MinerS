@@ -3,7 +3,7 @@ import brandLogo from './public/images/vite.svg'
 import { handleClick } from './counter.ts' //importing a function from and API endpoint
 import { handleClick2 } from './counter.ts' //importing a function from and API endpoint
 //________________________________________________________________________
-import { retrieveLaunchParams } from '@telegram-apps/sdk'; 
+//import { retrieveLaunchParams } from '@telegram-apps/sdk'; 
   
 //________________________________________________________________________
 var logoImage = document.getElementById("logo") as HTMLImageElement;
