@@ -40,3 +40,11 @@
 #btn2{
     display: none;
 }
+
+#userDataContent{
+    background-color: aliceblue;
+    color: black;
+    padding: 5px 10px;
+    font-size: 15px;
+
+}
