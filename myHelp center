@@ -1,0 +1,5 @@
+After creating the .nojekyll file, deploying should be straightforward. 
+Just Do This:
+ - git add . //Adding new changes to git local repo
+ - git commit -m "your coment" // commit the changes
+ - npm run deploy // This will deploy the app directly to production. and nothing else.
